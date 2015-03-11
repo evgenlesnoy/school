@@ -36,7 +36,7 @@
 				<li>|</li>
 				<li><a href="#">Вебинары</a></li>
 				<li>|</li>
-				<li><a href="#">Еще</a></li>
+				<li><a href="#">Еще и еще</a></li>
 			</ul>
 		</div>
 		<div class="content-main">
